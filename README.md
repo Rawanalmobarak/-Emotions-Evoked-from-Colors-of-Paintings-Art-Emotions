@@ -45,3 +45,7 @@ Goals for the project:
 - If the painting is a portrait, I can extract the facial expression by using the code I used in the 30 days of code
 
 - perform NLP on the titles of the painting 
+
+
+Resources: 
+https://core.ac.uk/download/pdf/153368581.pdf
