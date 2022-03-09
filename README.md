@@ -1,5 +1,5 @@
 # Art&Emotions
-In my Art&Emotion Project, I analyzes famous paintings to see what emotion evoke within us when staring at paintings. In my current version of the project I focus on the colors of the paitings.  
+In my Art&Emotion Project, I analyzed famous paintings to see what emotion evokes within us when staring at paintings. In my current version of the project I focus on the colors of the paintings.  
 
 
 ## Dataset
