@@ -21,7 +21,7 @@ In my Art&Emotion Project, I analyzes famous paintings to see what emotion evoke
 </ul>
 <br>
 
-After adding columns 
+Added Columns 
 
 - ID = Painting ID
 - Category = Painting style (Impressionism, realism, cubism .. etc)
@@ -32,10 +32,25 @@ After adding columns
 - Painting Info URLe =  Info of the painting link              
 - Artist Info URL = Info on the artist link                          
 
-## Data Resources
 
 
-## Other Resources
+## Resources
+https://www.wikiart.org/
+https://core.ac.uk/download/pdf/153368581.pdf
+
+
+## Future Development
+
+
+
+
+<ul>
+<li> Extract Emotions from Title & Painting Description using NLP </li>
+  <li> Portrait & Landscape Paitings Classifier </li>
+  <li> Extract emotion from face expressions in portrait paintings </li>
+</ul>
+<br>
+
 
 What I'll be looking for in a painitng: an aritst convey emotions in Paintings:
 
