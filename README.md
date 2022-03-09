@@ -49,7 +49,18 @@ My project works by putting images of paintings in color clusters and classifyin
 I used kmean algorithm to cluster my images & knn classifier
 
 ## conclusion
-to convey an emotion of a painting and for my model to be more accurate, I would need to analyze more factors such as the titles. This project is a working progress and I will be adding to it to make it more accurate.
+
+
+<ul>
+<li> This project allows me to combine topics that are meaningful to me: Data Science, Art, and Psychology </li>
+  <li> Colors in paintings and all around in our everyday lives influence our emotions and perception </li>
+  <li> Understanding how what positive or negative effect different colors have allows us to use them as a tool to express ourselves </li>
+</ul>
+<br>
+
+
+
+
 
 
 ## Future Development
