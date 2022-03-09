@@ -92,17 +92,5 @@ My code was taking a long time to run when doing image processing
 
 
 
-Here's a list of colours commonly used to identify several emotions:
 
-Red: Anger, embarrassment, passion, or love.
-Blue: Shyness, sadness, or calmness.
-Yellow: Cowardice, happiness, cheerful, or caution.
-Green: Disgust, envy, ,greed,friendliness, soothing, calm, or safety
-Purple: Pride, fear, or courage.
-Grey: Depression, regular sadness, or stoicism.
-Black: Coldness or mournfulness.
-Pink: Cheeriness, embarrassment, or love.
-White: Shock, fear, coldness, or mournfulness.
-Orange: happiness and healthy
-Purple: sadness, disgust, or mystery
 
