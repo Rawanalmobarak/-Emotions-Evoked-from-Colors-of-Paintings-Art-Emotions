@@ -10,6 +10,7 @@ Artists often use color as a medium to convey different messages, feelings, and 
 - WikiArt-info.tsv = original dataset before adding columns
 - output.csv = csv file for the images url 
 - full_emotion_color.csv = added columns to WikiArt-info.tsv 
+- emotions_images.csv = has emotions and colors dataset
 
 
 ## Data Dictionary 
@@ -42,12 +43,15 @@ Added Columns
 https://www.wikiart.org/  <br>
 https://core.ac.uk/download/pdf/153368581.pdf  <br>
 https://medium.com/artificialis/extracting-and-analyzing-colors-from-images-with-python-3a762ee1c3d7
+https://raw.githubusercontent.com/josh-ashkinaze/Emotion-Colors/master/emotions_images.csv
 
 
 ## Project approach & solution
 
 My project works by putting images of paintings in color clusters and classifying them with emotions. Look below for more details.
-I used kmean algorithm to cluster my images & knn classifier
+I used kmean algorithm to cluster my images & knn classifier & Random Forest
+
+emotions_images.csv: for this dataset since it has emotions and colors, I added a column for the colors name & RGB to compare my dataset with this one and get the emotions but when I ran the classifier on this dataset it wasnt accurate since it was scraping images of shocking expressions and different expressions but not scraping images that focus on colors, which is why I found that clustering is the approach for this. since I don't have a dataset to classify (supervised learning), the approach to this is using clustering the colors (unsupervised learning)
 
 ## conclusion
 
