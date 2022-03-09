@@ -7,6 +7,21 @@ In my Art&Emotion Project, I analyzes famous paintings to see what emotion evoke
 
 ## Data Dictionary 
 
+<ul>
+<li><i>ID</i>:    <i>Painting ID</i></li>
+<li><i>Category</i>: <i>Painting style (Impressionism, realism, cubism .. etc)</i></li>
+<li><i>Artist</i>: <i>The painting's artist's name</i></li>
+<li><i>Title</i>: <i>The title of the Painting </i></li>
+<li><i>Year</i>: <i>The year of the painting</i></li>
+<li><i>Image URL</i>: <i>URL of the website that contains the image /i></li>
+<li><i>Painting Info URLe </i>: <i>Info of the painting link</i></li>
+<li><i>Artist Info URL</i>: <i>Info on the artist link </i></li>
+
+
+</ul>
+<br>
+
+
 - ID = Painting ID
 - Category = Painting style (Impressionism, realism, cubism .. etc)
 - Artist = The artist's name
