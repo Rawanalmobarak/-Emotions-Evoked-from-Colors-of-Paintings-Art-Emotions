@@ -40,7 +40,8 @@ Added Columns
 
 ## Resources
 https://www.wikiart.org/  <br>
-https://core.ac.uk/download/pdf/153368581.pdf
+https://core.ac.uk/download/pdf/153368581.pdf  <br>
+https://medium.com/artificialis/extracting-and-analyzing-colors-from-images-with-python-3a762ee1c3d7
 
 
 ## Project approach & solution
