@@ -48,15 +48,19 @@ https://core.ac.uk/download/pdf/153368581.pdf
 <li> Extract Emotions from Title & Painting Description using NLP </li>
   <li> Portrait & Landscape Paitings Classifier </li>
   <li> Extract emotion from face expressions in portrait paintings </li>
+  <li> For the abstract/landscape paintings, I will analyze the lines & shapes</li>
 </ul>
 <br>
 
+Lines:
+A dark, thick, angled line can show anger or being mad
+A thin, flowing, rounded line can show happiness
 
-What I'll be looking for in a painitng: an aritst convey emotions in Paintings:
 
-1- colors
-2- lines
-3- shapes
+Shapes:
+Squares, triangles and rectangles can show anger, fear, confusion
+Ovals can show sadness
+Circles can show happiness and joy
 
 
 
@@ -75,25 +79,3 @@ White: Shock, fear, coldness, or mournfulness.
 Orange: happiness and healthy
 Purple: sadness, disgust, or mystery
 
-
-Lines
-
-A dark, thick, angled line can show anger or being mad
-A thin, flowing, rounded line can show happiness
-
-
-Shapes
-
-Squares, triangles and rectangles can show anger, fear, confusion
-Ovals can show sadness
-Circles can show happiness and joy
-
-
-Goals for the project:
-
-- after extracting the dominant colors from all the photos, I will create a coloumn of the colors and the emotions accossiated with this color
-- use one of the classifiers (knn for example) to predict the emotion from colors
-
-- If the painting is a portrait, I can extract the facial expression by using the code I used in the 30 days of code
-
-- perform NLP on the titles of the painting 
