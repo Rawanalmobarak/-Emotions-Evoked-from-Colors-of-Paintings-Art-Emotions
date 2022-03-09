@@ -1,4 +1,28 @@
-# Artist_Emotions
+# Art&Emotions
+In my Art&Emotion Project, I analyzes famous paintings to see what emotion evoke within us when staring at paintings. In my current version of the project I focus on the colors of the paitings.  
+
+
+## Dataset
+
+
+## Data Dictionary 
++--------------------+--------------------------------------------------------+
+| ID                 | Painting ID                                            |
++--------------------+--------------------------------------------------------+
+| Category           | Painting style (Impressionism, realism, cubism .. etc) |
++--------------------+--------------------------------------------------------+
+| Artist             | The artist's name                                      |
++--------------------+--------------------------------------------------------+
+| Title              | The title of the Painting                              |
++--------------------+--------------------------------------------------------+
+| Year               | The year of the painting                               |
++--------------------+--------------------------------------------------------+
+| Image URL          | URL of the website that contains the image             |
++--------------------+--------------------------------------------------------+
+| Painting Info URLe | Info of the painting link                              |
++--------------------+--------------------------------------------------------+
+| Artist Info URL    | Info on the artist link                                |
++--------------------+--------------------------------------------------------+
 
 What I'll be looking for in a painitng: an aritst convey emotions in Paintings:
 
