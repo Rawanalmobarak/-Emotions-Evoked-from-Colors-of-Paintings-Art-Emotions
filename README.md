@@ -79,7 +79,6 @@ White: Shock, fear, coldness, or mournfulness.
 Orange: happiness and healthy
 Purple: sadness, disgust, or mystery
 
-<<<<<<< HEAD
 
 Lines
 
@@ -106,5 +105,4 @@ Goals for the project:
 
 Resources: 
 https://core.ac.uk/download/pdf/153368581.pdf
-=======
->>>>>>> 6dcbc8c6d3235e0fdef0fb7612f3623c6e0610b4
+
