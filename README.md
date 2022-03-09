@@ -1,8 +1,9 @@
 # Art&Emotions
 
+## Introduction & The Question
 Artists often use color as a medium to convey different messages, feelings, and symbolisms. The artists’ use of different colors and shades can greatly influence how the viewer perceives a painting and what they take away from it. My Arts & Emotions project aims to provide a bridge between paintings and the emotions they evoke within us when we look at them. By explaining how different colors impact the human psyche I aim to help people understand why artists make the color choices they do and why as viewers we feel a certain way when looking at a painting
 
-My project works by putting images of paintings in color clusters and classifying them with emotions. Look below for more details
+My project works by putting images of paintings in color clusters and classifying them with emotions. Look below for more details.
 
 
 ## Dataset
