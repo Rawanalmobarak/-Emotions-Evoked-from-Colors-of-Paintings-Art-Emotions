@@ -53,8 +53,8 @@ https://core.ac.uk/download/pdf/153368581.pdf
 <br>
 
 Lines:
-A dark, thick, angled line can show anger or being mad
-A thin, flowing, rounded line can show happiness
+A dark, thick, angled line =  show anger or being mad 
+A thin, flowing, rounded line = show happiness
 
 
 Shapes:
