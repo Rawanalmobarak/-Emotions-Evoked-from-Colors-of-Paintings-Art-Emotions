@@ -3,8 +3,9 @@ In my Art&Emotion Project, I analyzed famous paintings to see what emotion evoke
 
 
 ## Dataset
-
+- WikiArt-info.tsv = original dataset before adding columns
 - output.csv = csv file for the images url 
+- full_emotion_color.csv = added columns to WikiArt-info.tsv 
 
 
 ## Data Dictionary 
