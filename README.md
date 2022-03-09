@@ -1,9 +1,9 @@
-# Art&Emotions
+# Art&Emotions (Emotions Evoked from Colors of Paintings)
 
 ## Introduction & The Question
 Artists often use color as a medium to convey different messages, feelings, and symbolisms. The artists’ use of different colors and shades can greatly influence how the viewer perceives a painting and what they take away from it. My Arts & Emotions project aims to provide a bridge between paintings and the emotions they evoke within us when we look at them. By explaining how different colors impact the human psyche I aim to help people understand why artists make the color choices they do and why as viewers we feel a certain way when looking at a painting
 
-My project works by putting images of paintings in color clusters and classifying them with emotions. Look below for more details.
+
 
 
 ## Dataset
@@ -43,8 +43,16 @@ https://www.wikiart.org/  <br>
 https://core.ac.uk/download/pdf/153368581.pdf
 
 
-## Future Development
+## Project approach & solution
 
+My project works by putting images of paintings in color clusters and classifying them with emotions. Look below for more details.
+I used kmean algorithm to cluster my images & knn classifier
+
+## conclusion
+to convey an emotion of a painting and for my model to be more accurate, I would need to analyze more factors such as the titles. This project is a working progress and I will be adding to it to make it more accurate.
+
+
+## Future Development
 
 
 <ul>
@@ -64,6 +72,10 @@ Shapes: <br>
 Squares, triangles and rectangles can show anger, fear, confusion <br>
 Ovals can show sadness <br>
 Circles can show happiness and joy
+
+
+## Limitations
+My code was taking a long time to run when doing image processing 
 
 
 
