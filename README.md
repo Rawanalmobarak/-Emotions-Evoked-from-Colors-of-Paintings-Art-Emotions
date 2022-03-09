@@ -21,6 +21,7 @@ In my Art&Emotion Project, I analyzes famous paintings to see what emotion evoke
 </ul>
 <br>
 
+After adding columns 
 
 - ID = Painting ID
 - Category = Painting style (Impressionism, realism, cubism .. etc)
