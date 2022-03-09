@@ -35,7 +35,7 @@ Added Columns
 
 
 ## Resources
-https://www.wikiart.org/
+https://www.wikiart.org/  <br>
 https://core.ac.uk/download/pdf/153368581.pdf
 
 
