@@ -52,12 +52,12 @@ https://core.ac.uk/download/pdf/153368581.pdf
 </ul>
 <br>
 
-Lines:
+Lines: <br>
 A dark, thick, angled line show anger or being mad <br>
 A thin, flowing, rounded line show happiness
 
 
-Shapes:
+Shapes: <br>
 Squares, triangles and rectangles can show anger, fear, confusion <br>
 Ovals can show sadness <br>
 Circles can show happiness and joy
